@@ -78,10 +78,10 @@ I craft **clean, responsive, and interactive websites** with a love for pixel-pe
 
 I'm always open to exciting projects, collaborations, or just a friendly chat!
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/khushi-kumari-02933430a)
-- 🐙 **GitHub:** [github.com/your-username](https://github.com/SinghKhushi190)
-- 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-- 📧 **Email:** your.kk8147561@gmail.com
+- 💼 **LinkedIn:** (www.linkedin.com/in/khushi-kumari-02933430a)
+- 🐙 **GitHub:** (https://github.com/SinghKhushi190)
+- 🌐 **Portfolio:** (https://your-portfolio-link.com)
+- 📧 **Email:** kk8147561@gmail.com
 
 ---
 
