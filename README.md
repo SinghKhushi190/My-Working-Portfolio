@@ -57,21 +57,6 @@ I craft **clean, responsive, and interactive websites** with a love for pixel-pe
 | 🎨 **Project 3** | Brief description of your project | HTML, CSS | [View](#) |
 
 > ✏️ *Replace the placeholder projects with your real ones!*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
-
-</div>
-
 ---
 
 ## 📫 Get In Touch
