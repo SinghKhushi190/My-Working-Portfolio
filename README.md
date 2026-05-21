@@ -45,19 +45,6 @@ I craft **clean, responsive, and interactive websites** with a love for pixel-pe
 
 > ✏️ *Update this section with your actual tech stack!*
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| 🌐 **Portfolio Website** | My personal portfolio with smooth animations & modern design | HTML, CSS, JS | [View](https://your-portfolio-link.com) |
-| 🔧 **Project 2** | Brief description of your project | React, Node.js | [View](#) |
-| 🎨 **Project 3** | Brief description of your project | HTML, CSS | [View](#) |
-
-> ✏️ *Replace the placeholder projects with your real ones!*
----
-
 ## 📫 Get In Touch
 
 I'm always open to exciting projects, collaborations, or just a friendly chat!
