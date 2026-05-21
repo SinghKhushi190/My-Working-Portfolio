@@ -78,11 +78,10 @@ I craft **clean, responsive, and interactive websites** with a love for pixel-pe
 
 I'm always open to exciting projects, collaborations, or just a friendly chat!
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📸 **Instagram:** [@your-handle](https://instagram.com/your-handle)
-- 🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/khushi-kumari-02933430a)
+- 🐙 **GitHub:** [github.com/your-username](https://github.com/SinghKhushi190)
 - 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** your.kk8147561@gmail.com
 
 ---
 
@@ -91,7 +90,5 @@ I'm always open to exciting projects, collaborations, or just a friendly chat!
 *"Crafting the web, one pixel at a time."* ✨
 
 **— Khushi Kumari**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=00FFFF&style=flat-square&label=Profile+Views)
 
 </div>
