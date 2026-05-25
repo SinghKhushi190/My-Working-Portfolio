@@ -62,4 +62,9 @@ I'm always open to exciting projects, collaborations, or just a friendly chat!
 
 **— Khushi Kumari**
 
+<div align = "centre">
+   *"  PORTFOLIO UnderProcess"* 📈
+   *" THANK YOU for Understanding"* 😊
+</div>
+  
 </div>
