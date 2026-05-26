@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Khushi Kumari | Full Stack Developer</title>
+    <link rel="stylesheet" href="/public/style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Particle Canvas -->
+    <canvas id="particles"></canvas>
+
+    <!-- HEADER -->
+    <header class="header" id="header">
+      <a href="#home" class="logo">KK<span>.</span></a>
+      <nav class="navbar">
+        <a href="#home" class="nav-link active" data-section="home">Home</a>
+        <a href="#about" class="nav-link" data-section="about">About</a>
+        <a href="#skills" class="nav-link" data-section="skills">Skills</a>
+        <a href="#portfolio" class="nav-link" data-section="portfolio"
+          >Portfolio</a
+        >
+        <a href="#contact" class="nav-link" data-section="contact">Contact</a>
+      </nav>
+      <div class="hamburger" id="hamburger">
+        <span></span><span></span><span></span>
+      </div>
+    </header>
+
+    <!-- HOME -->
+    <section class="home" id="home">
+      <div class="home-content">
+        <p class="greeting">Hello, It's Me</p>
+        <h1 class="name">Khushi<br /><span>Kumari</span></h1>
+        <h3 class="role">I'm a <span class="typed-text"></span></h3>
+        <p class="bio">
+          A passionate BCA student turning ideas into elegant web experiences. I
+          craft clean, responsive, and interactive websites with a love for
+          pixel-perfect design and modern web technologies.
+        </p>
+        <div class="home-actions">
+          <div class="home-sci">
+            <a href="https://www.instagram.com/khush_isingh1418" title="Instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="https://github.com/SinghKhushi190" title="GitHub"><i class="bx bxl-github"></i></a>
+            <a href="https://www.linkedin.com/in/khushi-kumari-190" title="LinkedIn"><i class="bx bxl-linkedin"></i></a>
+          </div>
+          <a href="#portfolio" class="btn-box"
+            >View My Work <i class="bx bx-right-arrow-alt"></i
+          ></a>
+        </div>
+      </div>
+      <div class="home-image-wrap">
+        <div class="glow-ring"></div>
+        <div class="home-img">
+          <img src="/public/image.png" alt="Khushi Kumari" />
+        </div>
+      </div>
+      <div class="scroll-indicator">
+        <span></span>
+        <p>Scroll</p>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="about" id="about">
+      <div class="section-header">
+        <span class="tag"></span>
+        <h2>About <span>Me</span></h2>
+      </div>
+      <div class="about-grid">
+        <div class="about-img-wrap">
+          <div class="about-img">
+            <img src="/public/image.png" alt="Khushi Kumari" />
+          </div>
+          <div class="about-badge">
+            <i class="bx bx-code-alt"></i>
+            <span>BCA Student</span>
+          </div>
+        </div>
+        <div class="about-text">
+          <h3>Full-Stack Developer &amp; <span>programmer</span></h3>
+          <p>
+            I'm <strong>Khushi Kumari</strong>, a passionate beginner web
+            developer currently pursuing my BCA degree. My journey in web
+            development started with curiosity and has grown into a deep passion
+            for creating beautiful, functional web experiences.
+          </p>
+          <p>
+            I specialize in building clean, responsive websites using HTML, CSS,
+            and JavaScript. I'm also proficient in C++ programming and enjoy
+            solving complex problems through code.
+          </p>
+          <div class="about-stats">
+            <div class="stat">
+              <span>2+</span>
+              <p>Projects Done</p>
+            </div>
+            <div class="stat">
+              <span>0-1+</span>
+              <p>Years Learning</p>
+            </div>
+            <div class="stat">
+              <span>5+</span>
+              <p>Skills</p>
+            </div>
+          </div>
+          <div class="about-btns">
+            <a href="#contact" class="btn-box">Hire Me</a>
+            <a href="Resume.pdf" class="btn-outline"
+              >Download Resume <i class="bx bx-download"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section class="skills-section" id="skills">
+      <div class="section-header">
+        <span class="tag"></span>
+        <h2>My <span>Skills</span></h2>
+      </div>
+      <div class="skills-wrapper">
+        <div class="skills-left">
+          <h3>Technical Skills</h3>
+           <div class="filter-tabs">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="html-css">HTML/CSS</button>
+        <button class="filter-btn" data-filter="js">JavaScript</button>
+        <button class="filter-btn" data-filter="react">React</button>
+        <button class="filter-btn" data-filter="bootstarp">Bootstrap</button>
+        <button class="filter-btn" data-filter="node js">node js</button>
+        <button class="filter-btn" data-filter="Database">database</button>
+        <button class="filter-btn" data-filter="mysql">mysql</button>
+        <button class="filter-btn" data-filter="c++">c++</button>
+        <button class="filter-btn" data-filter="java">java</button>
+        <button class="filter-btn" data-filter="api">api</button>
+        <button class="filter-btn" data-filter="rest api">rest api</button>
+
+      </div>
+          </div>
+        </div>
+        <div class="skills-right">
+          <h3>What I Offer</h3>
+          <div class="service-cards">
+            <div class="service-card">
+              <i class="bx bx-code-curly"></i>
+              <h4>Fron-end Development</h4>
+              <p>
+                Building responsive and performant websites from scratch using
+                modern HTML, CSS &amp; JS.
+              </p>
+            </div>
+            <div class="service-card">
+              <i class="bx bx-palette"></i>
+              <h4>Back-end Development</h4>
+              <p>
+                Building robust and scalable server-side applications using modern
+                programming languages and frameworks.
+              </p>
+            </div>
+            <div class="service-card">
+              <i class="bx bx-mobile-alt"></i>
+              <h4>Responsive Design</h4>
+              <p>
+                Every project is built mobile-first and tested across all screen
+                sizes and browsers.
+              </p>
+            </div>
+            <div class="service-card">
+              <i class="bx bx-rocket"></i>
+              <h4>Performance</h4>
+              <p>
+                Optimized, fast-loading pages with clean code and best practices
+                for the web.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PORTFOLIO -->
+    <section class="portfolio" id="portfolio">
+      <div class="section-header">
+        <span class="tag"></span>
+        <h2>My <span>Projects</span></h2>
+      </div>
+    
+      <div class="portfolio-grid">
+        <div class="portfolio-card" data-cat="html-css">
+          <div class="card-img">
+            <div class="card-placeholder">
+              <i class="bx bx-coffee-togo"></i>
+            </div>
+          </div>
+          <div class="card-body">
+            <span class="card-tag"></span>
+            <h4>Coffee Shop Landing Page</h4>
+            <p>
+              A fully responsive landing page for a fictional coffee shop with
+              smooth animations.
+            </p>
+            <div class="card-links">
+              <a href="#"><i class="bx bx-link-external"></i> Live</a>
+              <a href="#"><i class="bx bxl-github"></i> Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-card" data-cat="js">
+          <div class="card-img">
+            <div class="card-placeholder"><i class="bx bx-calculator"></i></div>
+          </div>
+          <div class="card-body">
+            <span class="card-tag">JavaScript</span>
+            <h4>Calculator App</h4>
+            <p>
+              A sleek, fully functional calculator with keyboard support and
+              history tracking.
+            </p>
+            <div class="card-links">
+              <a href="#"><i class="bx bx-link-external"></i> Live</a>
+              <a href="#"><i class="bx bxl-github"></i> Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-card" data-cat="html-css">
+          <div class="card-img">
+            <div class="card-placeholder"><i class="bx bx-user"></i></div>
+          </div>
+          <div class="card-body">
+            <span class="card-tag">HTML / CSS</span>
+            <h4>Airpods</h4>
+            <p>
+                A responsive product page for Apple Airpods with modern design and
+                interactive elements.
+            </p>
+            <div class="card-links">
+              <a href="#"><i class="bx bx-link-external"></i> Live</a>
+              <a href="https://github.com/SinghKhushi190/Airpods"><i class="bx bxl-github"></i> Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-card" data-cat="js">
+          <div class="card-img">
+            <div class="card-placeholder"><i class="bx bx-cloud-rain"></i></div>
+          </div>
+          <div class="card-body">
+            <span class="card-tag">JavaScript</span>
+            <h4>Weather App</h4>
+            <p>
+              Real-time weather application using OpenWeatherMap API with
+              beautiful UI.
+            </p>
+            <div class="card-links">
+              <a href="#"><i class="bx bx-link-external"></i> Live</a>
+              <a href="#"><i class="bx bxl-github"></i> Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-card" data-cat="react">
+          <div class="card-img">
+            <div class="card-placeholder">
+              <i class="bx bx-check-square"></i>
+            </div>
+          </div>
+          <div class="card-body">
+            <span class="card-tag">React</span>
+            <h4>To-Do App</h4>
+            <p>
+              A task management app built with React hooks, local storage
+              persistence.
+            </p>
+            <div class="card-links">
+              <a href="#"><i class="bx bx-link-external"></i> Live</a>
+              <a href="https://github.com/SinghKhushi190/to-do-work"><i class="bx bxl-github"></i> Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-card" data-cat="react">
+          <div class="card-img">
+            <div class="card-placeholder"><i  class="bx bx-shield" ></i></div>
+          </div>
+          <div class="card-body">
+            <span class="card-tag"></span>
+            <h4>Women's Safety App</h4>
+             <b>Safe-SaheliRoute</b>
+            <p>
+              A mobile-first application designed to enhance women's safety with
+              emergency features and community support.
+            </p>
+            <div class="card-links">
+              <a href="#"><i class="bx bx-link-external"></i> Live</a>
+              <a href=""><i class="bx bxl-github"></i>code</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact" id="contact">
+      <div class="section-header">
+        <span class="tag"></span>
+        <h2>Get In <span>Touch</span></h2>
+      </div>
+      <div class="contact-wrapper">
+        <div class="contact-info">
+          <p>
+            I'm currently open to freelance opportunities and collaborations.
+            Whether you have a project in mind or just want to say hello — my
+            inbox is always open!
+          </p>
+          <div class="contact-items">
+            <div class="contact-item">
+              <i class="bx bx-envelope"></i>
+              <div>
+                <span>Email</span
+                ><a href="mailto:kk8147561@gmail.com">kk8147561@gmail.com</a>
+              </div>
+            </div>
+            <div class="contact-item">
+              <i class="bx bx-map"></i>
+              <div><span>Location</span><a href="#">India</a></div>
+            </div>
+            <div class="contact-item">
+              <i class="bx bxl-github"></i>
+              <div>
+                <span>GitHub</span
+                ><a href="https://github.com/SinghKhushi190" target="_blank"
+                  >https://github.com/SinghKhushi190</a
+                >
+              </div>
+            </div>
+          </div>
+          <div class="social-row">
+            <a
+              href="https://www.instagram.com/khush_isingh1418"
+              title="Instagram"
+              target="_blank"
+              ><i class="bx bxl-instagram"></i
+            ></a>
+            <a href="https://wa.me/8084189925" title="WhatsApp" target="_blank"
+              ><i class="bx bxl-whatsapp"></i
+            ></a>
+            <a
+              href="https://github.com/SinghKhushi190"
+              title="GitHub"
+              target="_blank"
+              ><i class="bx bxl-github"></i
+            ></a>
+            <a
+              href="https://www.linkedin.com/in/khushi-kumari-190"
+              title="LinkedIn"
+              target="_blank"
+              ><i class="bx bxl-linkedin"></i
+            ></a>
+          </div>
+        </div>
+        <form class="contact-form" id="contactForm">
+          <div class="form-group">
+            <input type="text" id="name" placeholder=" " required />
+            <label for="name">Your Name</label>
+          </div>
+          <div class="form-group">
+            <input type="email" id="email" placeholder=" " required />
+            <label for="email">Your Email</label>
+          </div>
+          <div class="form-group">
+            <input type="text" id="subject" placeholder=" " />
+            <label for="subject">Subject</label>
+          </div>
+          <div class="form-group">
+            <textarea id="message" rows="5" placeholder=" " required></textarea>
+            <label for="message">Your Message</label>
+          </div>
+          <button type="submit" class="btn-box submit-btn">
+            <span>Send Message</span>
+            <i class="bx bx-send"></i>
+          </button>
+          <p class="form-success" id="formSuccess">
+            ✓ Message sent! I'll get back to you soon.
+          </p>
+        </form>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+      <p>Designed &amp; Built by <span>Khushi Kumari</span></p>
+      <p class="footer-copy">© 2026 All rights reserved.</p>
+    </footer>
+   <script src="public/script.js"></script>
+  </body>
+</html>
