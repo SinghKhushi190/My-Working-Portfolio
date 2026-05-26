@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello,-Khushi Kumari
+# 👋 Hello,It's me - Khushi Kumari
 
 ### Full Stack Developer | BCA Student | Pixel-Perfect Design Enthusiast
 
