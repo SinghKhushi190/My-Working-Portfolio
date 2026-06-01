@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | BCA Student | Pixel-Perfect Design Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://endearing-pixie-9e50f9.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khushi-kumari-02933430a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinghKhushi190)
 
@@ -51,7 +51,7 @@ I'm always open to exciting projects, collaborations, or just a friendly chat!
 
 - 💼 **LinkedIn:** (www.linkedin.com/in/khushi-kumari-02933430a)
 - 🐙 **GitHub:** (https://github.com/SinghKhushi190)
-- 🌐 **Portfolio:** (https://your-portfolio-link.com)
+- 🌐 **Portfolio:** (https://endearing-pixie-9e50f9.netlify.app/)
 - 📧 **Email:** kk8147561@gmail.com
 
 ---
